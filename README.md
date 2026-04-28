@@ -1,6 +1,6 @@
-# 🚗 Driver Monitoring System using AI
+#  Driver Monitoring System using AI
 
-## 📌 Project Overview
+##  Project Overview
 
 The Driver Monitoring System is a real-time computer vision-based safety solution designed to detect risky driver behaviors such as drowsiness, yawning, and distraction. The system uses advanced AI techniques to continuously monitor the driver through a webcam and provide instant alerts to prevent potential accidents.
 
@@ -8,7 +8,7 @@ This project integrates multiple technologies including MediaPipe for facial and
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 - 😴 **Drowsiness Detection** – Detects closed eyes and prolonged blinking  
 - 😮 **Yawn Detection** – Identifies fatigue through mouth opening patterns  
@@ -19,7 +19,7 @@ This project integrates multiple technologies including MediaPipe for facial and
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - Python  
 - OpenCV  
@@ -30,7 +30,7 @@ This project integrates multiple technologies including MediaPipe for facial and
 
 ---
 
-## 🔄 How It Works
+##  How It Works 🔄
 
 1. Captures live video using webcam  
 2. Detects face landmarks using MediaPipe  
@@ -41,7 +41,7 @@ This project integrates multiple technologies including MediaPipe for facial and
 
 ---
 
-## 📊 Applications
+##  Applications
 
 - Smart vehicles & driver safety systems  
 - Fleet management monitoring  
@@ -50,7 +50,7 @@ This project integrates multiple technologies including MediaPipe for facial and
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Integration with IoT-enabled vehicles  
 - Cloud-based monitoring dashboard  
@@ -59,7 +59,7 @@ This project integrates multiple technologies including MediaPipe for facial and
 
 ---
 
-## 📌 Conclusion
+##  Conclusion📌
 
 This project demonstrates how AI and computer vision can be applied to improve road safety. By detecting early signs of driver fatigue and distraction, the system acts as a proactive safety mechanism, reducing the chances of accidents and promoting responsible driving behavior.
 
