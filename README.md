@@ -64,4 +64,5 @@ This project integrates multiple technologies including MediaPipe for facial and
 This project demonstrates how AI and computer vision can be applied to improve road safety. By detecting early signs of driver fatigue and distraction, the system acts as a proactive safety mechanism, reducing the chances of accidents and promoting responsible driving behavior.
 
 ##Author
+
 Pavithra
