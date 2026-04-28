@@ -1,0 +1,45 @@
+Time,Event,Risk
+20:16:10,Drowsy,HIGH
+20:16:22,Drowsy,HIGH
+20:21:14,Drowsy,HIGH
+20:21:21,Drowsy,HIGH
+20:21:25,Drowsy,HIGH
+20:21:35,Looking Away,HIGH
+20:21:59,Drowsy,HIGH
+20:22:03,Drowsy,HIGH
+20:22:15,Phone,HIGH
+20:22:21,Drowsy,HIGH
+20:25:16,Phone,HIGH
+20:45:30,Drowsy,HIGH
+20:45:35,Drowsy,HIGH
+20:45:39,Drowsy,HIGH
+20:45:43,Phone,HIGH
+20:46:04,Drowsy,HIGH
+20:46:08,Drowsy,HIGH
+20:46:39,Drowsy,HIGH
+21:12:44,Drowsy,HIGH
+21:13:21,Distraction,HIGH
+12:44:51,Drowsiness,3
+12:44:54,Drowsiness,3
+12:44:58,Drowsiness,3
+12:45:01,Drowsiness,3
+12:45:05,Drowsiness,3
+12:45:45,Drowsiness,3
+12:46:23,Drowsiness,3
+12:46:26,Phone Usage,2
+12:47:00,Drowsiness,3
+12:47:03,Drowsiness,4
+12:47:06,Drowsiness,4
+12:47:23,Drowsiness,3
+12:47:34,Phone Usage,2
+12:47:37,Phone Usage,2
+12:50:35,Distracted,2
+12:50:39,Distracted,2
+12:50:43,Drowsiness,3
+12:50:48,Phone Usage,2
+12:57:36,Drowsiness,3
+12:57:39,Phone Usage,2
+12:57:43,Yawning,1
+12:57:46,Distracted,2
+12:57:49,Yawning,1
+12:57:59,Yawning,1
